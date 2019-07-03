@@ -5,5 +5,7 @@ There are folders that contain code from classes I have taken and there are fold
 
 Some of the projects may be moved into individual repositories if I feel they have a lot of growth potential. 
 
-Feel free to look around but none of this is meant to be used by anyone.
+Feel free to look around!
+
+Disclaimer: None of this is meant to be used by anyone, most of it is just for learning purposes and is very broken/incoherent. 
 
