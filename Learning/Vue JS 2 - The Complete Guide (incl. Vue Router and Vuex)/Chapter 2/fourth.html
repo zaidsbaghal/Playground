@@ -24,6 +24,11 @@
             counter: 0,
             result: '',
         },
+        watch: {
+            counter: function(value){
+                
+            }
+        },
         computed: {
             output: function () {
                 this.result = this.counter > 5 ? 'Greater than 5' : "Smaller than 5"
